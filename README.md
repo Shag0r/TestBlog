@@ -39,18 +39,30 @@ The CMS of the TestBlog contains
 Authencation:
 ------------------
 1/ User Registration:data is stored into the tbl_users
+![image](https://github.com/Shag0r/TestBlog/assets/101504353/a187f954-1a89-408f-8a42-07f17ed35056)
+
 2/ Login: use table tbl-users; 
+![image](https://github.com/Shag0r/TestBlog/assets/101504353/7c49418a-e0f8-4aa7-8a9d-1eec4e787f82)
+
 3/ Logout system ;
 Used MD5 security system to protect password privacy.
+
+
+
 
 CRUDE:
 Post Catagory:
 =========================
 1/ catagory create update delete 
 
+
 Blog :
 ==========
 1/Blog Create Update delete 
+![image](https://github.com/Shag0r/TestBlog/assets/101504353/09a1c617-10c7-4d40-a8a5-4c52191107e2)
+
+![image](https://github.com/Shag0r/TestBlog/assets/101504353/ba0874dd-5bbd-4ab3-999e-baa97808a7a5)
+![image](https://github.com/Shag0r/TestBlog/assets/101504353/8b8f2f24-4491-48e0-95af-a14852980fcd)
 
 Database:
 I have  used Mysql Query to create the database and all the tables.
