@@ -1,0 +1,107 @@
+/* start framwork  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body {
+
+    background-color: #FFFBF0;
+   
+
+}
+:root {
+    --fisrt: #A4BC46;
+    --snd: #363958;
+    --trd: #FABE4C;
+    --p-bg: #f1f1f1;
+
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--snd);
+    font-family: 'Bebas Neue', cursive;
+
+
+}
+
+p {
+    color: var(--snd);
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.pb-80 {
+    padding-bottom: 80px;
+}
+
+.pt-80 {
+    padding-top: 80px;
+
+}
+
+.pt-10 {
+    padding-top: 10px;
+}
+
+.pb-10 {
+    padding-bottom: 10px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+/* end framwork */
+/* for the banner */
+.bannerMain img{
+    height: 100vh;
+}
+
+/* Blog  */
+.bblog{
+    border-left: 2px solid gold;
+    
+    border-radius: 20px;
+}
+.blogs{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: var(--fisrt);
+}
+/* recent section  */
+.recpost{
+    border-right:2px double #A4BC46;
+    border-left:2px double #A4BC46;
+    border-bottom:2px double #A4BC46;
+    border-radius:10px;
+}
+/* Blog end */
+
+
+/* footer start */
+.footer-area {
+    text-align: center;
+    background-color: var(--trd);
+}
+/* footer end  */
