@@ -1,4 +1,4 @@
-# TestBlog
+# Palki.Blog
 A simple single-page blog website design with PHP (Raw PHP and OOP class based).
 
 ![screencapture-localhost-testblog-2023-08-11-01_50_39](https://github.com/Shag0r/TestBlog/assets/101504353/6f2d2b82-5859-47ad-a2ae-459d82d9b970)
